@@ -1,16 +1,41 @@
-## Hi there 👋
+## Tech Stack
 
-<!--
-**dravensamrobertj-netizen/dravensamrobertj-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
 
-Here are some ideas to get you started:
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
+</p>
+
+---
+
+## Currently Working On
+- 🧩 Building scalable web applications using **Angular & Spring Boot**
+- 🔹 Developing REST APIs with **Java & Spring Boot**
+- 🗃️ Designing efficient **MySQL** databases
+- ☁️ Learning **AWS Cloud** deployment
+- 🧠 Improving **DSA & System Design**
+- 🚀 Building production-ready full-stack projects
