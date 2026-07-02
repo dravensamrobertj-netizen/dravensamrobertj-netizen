@@ -50,7 +50,7 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
 </p>
 
 ### Backend
@@ -80,28 +80,6 @@
 - 📂 Data-driven Web Applications with MySQL
 - ⚙️ RESTful Backend Services
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&theme=react-dark" alt="Contribution Graph"/>
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&theme=react-dark" alt="Contribution Graph"/>
-</p>
 
 ## 🌟 Featured Projects
 | Project   | Description                          |
@@ -112,6 +90,4 @@
 ## 💡 Developer Philosophy
 > "Design clean code. Build scalable systems. Keep learning every day. 💻"
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)/YOUR_REPO?style=social" alt="Star this repo"/>
-</p>
+
