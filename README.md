@@ -1,9 +1,9 @@
 ## Markdown
 
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm Draven Sam Robert</h1>
 
 <h3 align="center">
-  Junior Full Stack Developer • Spring Boot • Angular • AWS
+  Junior Full Stack Developer • Spring Boot • Angular 
 </h3>
 
 <p align="center">
@@ -19,25 +19,24 @@
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🌱 Junior Full Stack Developer
-- 💻 Currently working with "Spring Boot", "Angular", and "AWS"
+- 💻 Currently working with "Spring Boot", "Angular", "Java and MySQL"
 - 🧩 Passionate learner for REST APIs and microservices
 - 🧠 Database design and architecture enthusiast
-- 🔍 Constantly improving Data Structures & System Design
 - 🤝 Open to internships, collaborations, and exciting opportunities
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/draven-sam-robert/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB">
+<a href="https://github.com/[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dravensamrobertj@gmail.com">
   <img src="https://img.shields.io/badge/Email-CB2D2D?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -66,12 +65,12 @@
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=,git,github" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ## 🚀 Currently Building
@@ -83,25 +82,25 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 ## 🌟 Featured Projects
@@ -109,11 +108,10 @@
 |-----------|--------------------------------------|
 | Project 1 | Java + Spring Boot REST API          |
 | Project 2 | Angular Dashboard                    |
-| Project 3 | AWS Deployed Application             |
 
 ## 💡 Developer Philosophy
 > "Design clean code. Build scalable systems. Keep learning every day. 💻"
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB/YOUR_REPO?style=social" alt="Star this repo"/>
+  <img src="https://img.shields.io/github/stars/[YOUR_GITHUB](https://github.com/dravensamrobertj-netizen)/YOUR_REPO?style=social" alt="Star this repo"/>
 </p>
